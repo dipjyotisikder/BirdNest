@@ -1,6 +1,5 @@
 <p align="center">A template application that helps to kickstart with nestjs application and firestore.</p>
     <p align="center">
-## Description
 
 ## Installation
 
